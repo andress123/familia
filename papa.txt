@@ -1,0 +1,8 @@
+Nombre: juan
+fecha de nacimineto: 14/04/19000
+telefono: 456542222
+estado civil: soltero
+direccion residencia: cre775 # 78
+profesion: piloto avion
+
+------------------------------------
